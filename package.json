@@ -1,0 +1,19 @@
+{
+  "name": "ts-example",
+  "version": "1.0.0",
+  "description": "I am never in favor of using superset of Javascript, let it be *Coffeescript* or *Typescript*. The reason is pretty simple that it slows me down.",
+  "main": "Drive.js",
+  "dependencies": {
+    "ts-node": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.31",
+    "typescript": "^2.5.3"
+  },
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
